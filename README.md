@@ -12,8 +12,8 @@ NOT FINISHED
 - On Duty then job presence
 - Player is gang then gang presence
 - no gang? poor player, then the mighty, the all time champion, one man army, undefeated Theeeeeeeee SOLO ( sorry I get carried away )
+
 For each of these conditions there are 8 coresponding asset for the pictures , 4 male and 4 female
-Assets are generated using Leonardo.ai and tweaked a bit 
 
 # [NCUG] The Lore
 ## Why theme and stuff is from cyberpunk ?
