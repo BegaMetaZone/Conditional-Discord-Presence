@@ -2,7 +2,7 @@
 An overly complicated script to set discord rich presence for fivem .
 Only supports QB
 NOT FINISHED
-`Logic 100%`
+`Logic 99%`
 `Graphics 10%`
 
 # Conditions
